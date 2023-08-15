@@ -1,2 +1,2 @@
-# textbooks_of_ml
-this is my collection of mini tutorials on libraries and methods for machine learning in the form of jupiter notebooks
+# textbooks
+this is my collection of mini tutorials on libraries>, algorithms and methods in the form of jupiter notebooks
